@@ -1,0 +1,19 @@
+# Dados e resultados (grandes demais para o GitHub)
+dados/
+resultados/
+*.rds
+*.mtx.gz
+*.tsv.gz
+*.csv.gz
+meta.tsv
+*.xlsx
+
+# Saídas do Quarto / R
+*_files/
+*.html
+!index.html
+.quarto/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
